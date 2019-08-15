@@ -1,29 +1,13 @@
-# courses-crm
+# Vue List Editor
 
-## Project setup
+## Project setup & run
+First of all you need to run this command:
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+After that, just simply type 
 ```
 npm run serve
 ```
+and your app will be served on http://localhost:8080/
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
